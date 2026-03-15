@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac / Linux files
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Database (if you ever add SQLite)
+*.db
+*.sqlite3
+
+# Unit test / coverage
+.coverage
+htmlcov/
